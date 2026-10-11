@@ -1,3 +1,7 @@
+// Program Title: Sum of First 50 Natural Numbers
+// Name: Haseeb Ahmad 
+// Registration No: l1s26bscs0025
+// Assignment: 01
 #include <iostream>
 using namespace std;
 
